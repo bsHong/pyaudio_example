@@ -1,7 +1,7 @@
 # pyaudio_example
 Speech detection using threshold and audio record
 
-# Environment
+# Environments
 - Raspberry Pi 4 Model B
 - mic
 
