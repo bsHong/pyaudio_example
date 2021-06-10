@@ -3,7 +3,7 @@ Speech detection using threshold and audio record
 
 # Environments
 - Raspberry Pi 4 Model B
-- mic
+- MIC(on/off button)
 
 # Requirments
 - python version : 3.7
