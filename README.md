@@ -1,8 +1,14 @@
 # pyaudio_example
 Speech detection using threshold and audio record
 
-# requirments
-Package       Version
+# Environment
+- Raspberry Pi 4 Model B
+- mic
+
+# Requirments
+- python version : 3.7
+
+Package       |Version
 |------|---|
 numpy         |1.20.3
 Pillow        |8.2.0
