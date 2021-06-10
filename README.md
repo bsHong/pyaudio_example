@@ -16,3 +16,8 @@ pip           |21.1.2
 pkg-resources |0.0.0
 PyAudio       |0.2.11
 setuptools    |40.8.0
+
+# Setup
+```bash
+$ pip install -r requirements.txt
+```
